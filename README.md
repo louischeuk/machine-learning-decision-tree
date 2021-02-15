@@ -1,6 +1,5 @@
 ## Machine Learning: Decision Trees
 
-Group Wrok
 
 ### Data
 
@@ -61,5 +60,6 @@ classifier (use ``validation.txt`` for this instead).
 Simply running the ``main.py``.
 
 
+ps. Group project
 
 
